@@ -4,18 +4,18 @@ Sale a service or fail at selling software. That is why they all went drifting a
 
 Making this simple as before.
 
-- www
+- web
   - html
   - css
   - js
-- ?
+- document
   - xml
   - latex
-- ?
+- server
   - php
   - sql
   - ps1
-- ?
+- code
   - ts
   - c#
   - z80
