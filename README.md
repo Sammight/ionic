@@ -5,18 +5,18 @@ Sale a service or fail at selling software. That is why they all went drifting a
 Making this simple as before.
 
 - www
- - html
- - css
- - js
-= ?
- - xml
-- latex
+  - html
+  - css
+  - js
 - ?
- - php
- - sql
- - ps1
+  - xml
+  - latex
 - ?
- - ts
- - c#
- - z80
- - perl
+  - php
+  - sql
+  - ps1
+- ?
+  - ts
+  - c#
+  - z80
+  - perl
