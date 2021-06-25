@@ -1,7 +1,22 @@
-## Ionic 1.x
+# Ionic
 
-This is the repo for Ionic 1.x. If you're looking for the latest version (>= 2.0) of Ionic, please visit the main [Ionic](https://github.com/ionic-team/ionic) repo.
+Sale a service or fail at selling software. That is why they all went drifting as a company.
 
-For new apps, we *strongly* recommend the [latest version of Ionic](https://github.com/ionic-team/ionic) which comes with the latest version of Angular, many new components, enhanced performance, and more.
+Making this simple as before.
 
-For more information on Ionic 1.x, please read the [original README.md](README_OLD.md)
+- www
+ - html
+ - css
+ - js
+= ?
+ - xml
+- latex
+- ?
+ - php
+ - sql
+ - ps1
+- ?
+ - ts
+ - c#
+ - z80
+ - perl
