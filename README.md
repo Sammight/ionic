@@ -1,6 +1,6 @@
 # Ionic
 
-Sale a service or fail at selling software. That is why they all went drifting as a company.
+Sale a service or fail at selling software. That is why they all went drifting as a company. By license will celebrate the release of one application a year that is continually updated.
 
 Making this simple as before.
 
