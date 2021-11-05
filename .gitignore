@@ -1,12 +1,3 @@
-node_modules
-.agignore
-.editorconfig
-.eslintignore
-.eslintrc
-.gitattributes
-.gitignore
-.jscs.json
-.jshintignore
-.npmignore
-.git
-.github
+node_modules/
+.git/
+.github/
